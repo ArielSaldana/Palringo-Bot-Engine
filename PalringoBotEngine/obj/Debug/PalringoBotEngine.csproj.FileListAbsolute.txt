@@ -1,0 +1,1 @@
+c:\users\ariel\documents\visual studio 2013\Projects\PalringoBotEngine\PalringoBotEngine\bin\Debug\PalringoBotEngine.exe.config
