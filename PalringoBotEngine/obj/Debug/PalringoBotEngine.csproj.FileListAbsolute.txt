@@ -1,1 +1,10 @@
 c:\users\ariel\documents\visual studio 2013\Projects\PalringoBotEngine\PalringoBotEngine\bin\Debug\PalringoBotEngine.exe.config
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\bin\Debug\PalringoBotEngine.exe.config
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\obj\Debug\PalringoBotEngine.csprojResolveAssemblyReference.cache
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\bin\Debug\PalringoBotEngine.exe
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\bin\Debug\PalringoBotEngine.pdb
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\obj\Debug\PalringoBotEngine.exe
+C:\Users\ariel\Documents\GitHub\Palringo-Bot-Engine\PalringoBotEngine\obj\Debug\PalringoBotEngine.pdb
