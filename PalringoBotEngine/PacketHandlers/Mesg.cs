@@ -31,6 +31,7 @@ namespace PalringoBotEngine
         [Command("test", Enums.CommandType.Group)]
         public static void testCommand(Tcp tcp, Message message)
         {
+            Console.WriteLine("Fuck");
             tcp.SendGroupTextMessage(message.TargetId, "test working");
         }
 
