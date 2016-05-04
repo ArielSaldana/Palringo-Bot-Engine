@@ -83,6 +83,7 @@ namespace PalringoBotEngine
             tcp = new Tcp();
             tcp.LoginSuccess += () =>
             {
+                Tcp.Namespace = "bot";
             };
 
             // Packet Received and sent events
